@@ -1,4 +1,4 @@
-﻿都道府県名,市町村名,対象場所,ページURL,河川の水位と雨量の状況画像_URL
+﻿都道府県名,市町村名,対象場所,URL,現在画像URL,通常画像URL
 岐阜県,岐阜市,日野揚排水機場 周辺,https://www.river.go.jp/kawabouStt/ipCamera.do?gamenId=01-0710&cameraId=21010015,https://www.river.go.jp/e/cctv/latest/21010015/G0601.jpeg,https://www.river.go.jp/e/cctv/usual/21010015/G0601.jpeg
 岐阜県,岐阜市,長良橋,https://www.river.go.jp/kawabouStt/ipCamera.do?gamenId=01-0710&cameraId=21010016,https://www.river.go.jp/e/cctv/latest/21010016/G0703.jpeg,https://www.river.go.jp/e/cctv/usual/21010016/G0703.jpeg
 岐阜県,岐阜市,長良陸閘,https://www.river.go.jp/kawabouStt/ipCamera.do?gamenId=01-0710&cameraId=21010017,https://www.river.go.jp/e/cctv/latest/21010017/G0101.jpeg,https://www.river.go.jp/e/cctv/usual/21010017/G0101.jpeg
